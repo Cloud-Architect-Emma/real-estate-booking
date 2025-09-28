@@ -6,11 +6,11 @@ A full-stack web application for booking property viewings and inquiries. Built 
 
 ### Homepage
 
-![Homepage](.public/homepage.png) 
+![Homepage](./homepage.png) 
 
 ### Success Message
 
-![Success](.public/success.png)
+![Success](./success.png)
 
 ## Features
 
